@@ -44,7 +44,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import camelcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-camelcase@esm/index.mjs';
+import camelcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-camelcase@v0.1.1-esm/index.mjs';
 ```
 
 #### camelcase( str )
@@ -81,7 +81,7 @@ out = camelcase( '--foo-bar--' );
 <body>
 <script type="module">
 
-import camelcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-camelcase@esm/index.mjs';
+import camelcase from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-camelcase@v0.1.1-esm/index.mjs';
 
 var str = 'Hello World!';
 var out = camelcase( str );
